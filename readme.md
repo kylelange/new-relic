@@ -5,6 +5,7 @@
 #### By _**Kyle Lange**_
 
 ![screenshot](hello-world-express.png)
+
 ![screenshot](APM-data-screen.png)
 
 ## Learnings
@@ -23,11 +24,11 @@ git clone https://github.com/kylelange/new-relic.git
 cd new-relic
 
 In your terminal type: node app.js
-
-This app should now be running on [localhost:3000](http://localhost:3000/)
 ```
 
-2. View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
+This app should now be running on [localhost:3000](http://localhost:3000/)
+
+2.View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
 
 
 ## Known Bugs
